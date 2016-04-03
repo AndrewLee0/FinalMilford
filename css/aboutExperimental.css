@@ -31,18 +31,6 @@ hr {
     border-color: #999999;
 }
 
-.rightSide
-{
-     padding: 0px !important;
-}
-
-.col-md-6
-{
-    padding: 0px !important;
-}
-
-
-
 #navigationData a
 {
      -webkit-touch-callout: none;
@@ -400,11 +388,6 @@ header .leftSide{
     #partThree
     {
          height: 950px !important;
-    }
-
-    .leftSide 
-    {
-         display: none;
     }
 
 
