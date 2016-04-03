@@ -381,6 +381,11 @@ header .leftSide{
 
 @media (max-width: 769px)
 {
+    .leftSide 
+    {
+        display: none;
+    }
+
     header .leftSide{
         height: 950px !important;
     }
@@ -404,6 +409,7 @@ header .leftSide{
         height: 100vh !important;
     }
 }
+
 
 
 .row {
